@@ -1,16 +1,26 @@
-### Hi there 👋
+<h1 align="center">Hi there!👋, I'm Kadiyala Uday</h1>
+<h3 align="center">Aspiring Data Analyst</h3>
 
-<!--
-**kadiyalauday/kadiyalauday** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kadiyalauday&label=Profile%20views&color=0e75b6&style=flat" alt="kadiyalauday" /> </p>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **AWS, MS Excel, Pyspark.**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about **Python, SQL, Power BI.**
+
+- Project1: [Apna.co Job Portal EDA](https://github.com/kadiyalauday/Job-Portal-EDA)
+
+- Project2: [Music Store Analysis using MySQL](https://github.com/kadiyalauday/Music-Store-Analysis-SQL)
+
+- 📫 How to reach me  **udaykadiyala19@gmail.com**
+
+<h3 align="left">Connect with me:  <a href="https://linkedin.com/in/kadiyala uday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadiyala uday" height="20" width="30" /></a>
+</p></h3>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kadiyalauday&show_icons=true&locale=en&layout=compact" alt="kadiyalauday" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kadiyalauday&show_icons=true&locale=en" alt="kadiyalauday" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kadiyalauday&" alt="kadiyalauday" /></p>
