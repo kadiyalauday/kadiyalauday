@@ -13,7 +13,7 @@
 
 - 📫 How to reach me  **udaykadiyala19@gmail.com**
 
-<h3 align="left">Connect with me:  <a href="https://linkedin.com/in/kadiyala uday" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadiyala uday" height="20" width="30" /></a>
+<h3 align="left">Connect with me:  <a href="[https://linkedin.com/in/kadiyala uday](https://www.linkedin.com/in/kadiyalauday/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadiyala uday" height="20" width="30" /></a>
 </p></h3>
 
 <h3 align="left">Languages and Tools:</h3>
