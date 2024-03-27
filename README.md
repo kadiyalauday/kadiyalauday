@@ -20,7 +20,7 @@
 - 💻 Programming: Python(Numpy, Pandas)
 - 📊 Data Visualization: Matplotlib, Seaborn
 - 📓 Notebooks: Jupyter
-- 🗃️ Database: SQL
+- 🗃️ Database: MySQL
 
 📫 How to reach me  **udaykadiyala19@gmail.com**
 
