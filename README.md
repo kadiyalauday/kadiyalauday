@@ -17,7 +17,7 @@
 
 <h3 align="left">Skills:</h3>
 
-- 💻 Programming: Python(Numpy, Pandas)
+- 💻 Programming: Python(Numpy, Pandas, Beautifulsoup)
 - 📊 Data Visualization: Matplotlib, Seaborn
 - 📓 Notebooks: Jupyter
 - 🗃️ Database: MySQL
