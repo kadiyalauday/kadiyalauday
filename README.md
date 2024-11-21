@@ -17,9 +17,8 @@
 
 <h3 align="left">Skills:</h3>
 
-- 💻 Programming: Python(Numpy, Pandas, Beautifulsoup)
-- 📊 Data Visualization: Matplotlib, Seaborn
-- 📓 Notebooks: Jupyter
+- 💻 Programming: Python(Numpy, Pandas, Beautifulsoup).
+- 📊 Data Visualization: Matplotlib, Seaborn, Power BI.
 - 🗃️ Database: MySQL
 
 📫 How to reach me  **udaykadiyala48@gmail.com**
