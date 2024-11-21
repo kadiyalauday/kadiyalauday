@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kadiyalauday&label=Profile%20views&color=0e75b6&style=flat" alt="kadiyalauday" /> </p>
 
-- 🌱 I’m currently learning **AWS, MS Excel, Pyspark.**
+- 🌱 I’m currently learning **Machine Learning, NLP and Data Science.**
 
 - 💬 Ask me about **Python, SQL, Power BI.**
 
@@ -22,7 +22,7 @@
 - 📓 Notebooks: Jupyter
 - 🗃️ Database: MySQL
 
-📫 How to reach me  **udaykadiyala19@gmail.com**
+📫 How to reach me  **udaykadiyala48@gmail.com**
 
 <h3 align="left">Connect with me:  <a href="https://www.linkedin.com/in/kadiyalauday/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadiyala uday" height="20" width="30" /></a>
 </p></h3>
