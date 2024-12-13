@@ -24,7 +24,7 @@
 
 📫 How to reach me  **udaykadiyala48@gmail.com**
 
-[Portfolio](https://github.com/kadiyalauday/USA-Adidas-Sales-Analysis-using-Power-BI)
+[**Portfolio**](https://github.com/kadiyalauday/USA-Adidas-Sales-Analysis-using-Power-BI)
 
 <h3 align="left">Connect with me:  <a href="https://www.linkedin.com/in/kadiyalauday/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kadiyala uday" height="20" width="30" /></a>
 </p></h3>
